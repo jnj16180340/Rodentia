@@ -9,6 +9,9 @@ python = "^3.7"
 pybgs = "*"
 jupyter = "*"
 opencv-python = "*"
+pandas = "^1.0.3"
+black = "^19.10b0"
+blackcellmagic = "^0.0.2"
 
 [tool.poetry.dev-dependencies]
 
