@@ -1,0 +1,98 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "dataset_id": 1,
+      "path": "/datasets/mice/vlcsnap-2020-03-28-17h45m51s196.png",
+      "width": 1640,
+      "height": 1232,
+      "file_name": "vlcsnap-2020-03-28-17h45m51s196.png"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "mouse",
+      "supercategory": "rodent",
+      "color": "#ee3e1e",
+      "metadata": {},
+      "keypoint_colors": []
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8,
+      "image_id": 1,
+      "category_id": 1,
+      "segmentation": [
+        [
+          621.5,
+          842.5,
+          622.5,
+          844.5,
+          626.5,
+          844.5,
+          626.5,
+          862.5,
+          625.5,
+          861.5,
+          619.5,
+          865.5,
+          606.5,
+          865.5,
+          604.5,
+          864.5,
+          604.5,
+          851.5,
+          606.5,
+          845.5,
+          607.5,
+          846.5,
+          612.5,
+          842.5
+        ]
+      ],
+      "area": 458,
+      "bbox": [
+        605,
+        843,
+        22,
+        23
+      ],
+      "iscrowd": false,
+      "isbbox": false,
+      "color": "#f72bf7",
+      "keypoints": [],
+      "metadata": {}
+    },
+    {
+      "id": 9,
+      "image_id": 1,
+      "category_id": 1,
+      "segmentation": [
+        [
+          1012.3,
+          929.8,
+          1012.3,
+          989.4,
+          912.4,
+          989.4,
+          912.4,
+          929.8
+        ]
+      ],
+      "area": 5900,
+      "bbox": [
+        912,
+        930,
+        100,
+        59
+      ],
+      "iscrowd": false,
+      "isbbox": false,
+      "color": "#dc5a58",
+      "keypoints": [],
+      "metadata": {}
+    }
+  ]
+}
